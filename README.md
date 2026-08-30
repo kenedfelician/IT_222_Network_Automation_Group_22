@@ -1,14 +1,17 @@
 # IT 222 — Network Automation
 ## Assignment 22: Data Processing Office Network
 
-#GROUP MEMBERS REGISTRATION NUMBER
-01.2024/1369
-02.2024/1306
-03.2024/1572
-04.2024/0819
+# GROUP MEMBERS REGISTRATION NUMBER
 
-**Course:** IT222 — Advanced Networking
-**Institution:** St. John's University of Tanzania (SJUT), BSc IT
+| No. | Registration Number |
+| --- | ------------------- |
+| 01  | 2024/1369           |
+| 02  | 2024/1306           |
+| 03  | 2024/1572           |
+| 04  | 2024/0819           |
+
+**Course:** IT222 — Data Communication and Advanced Networking
+**Institution:** St. John's University of Tanzania (SJUT), BSc ICT
 **Author:** Baraka Maxmilian Mango (Reg. No. 2024/1369)
 **Tools:** GNS3, Python 3, Netmiko
 
